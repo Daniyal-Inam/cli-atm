@@ -1,2 +1,2 @@
-# cli-atm
-This is cli based atm
+# cli-atm-machine
+This is cli based atm machine
